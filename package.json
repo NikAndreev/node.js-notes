@@ -1,0 +1,14 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "list": "node index.js list",
+    "view": "node index.js view",
+    "create": "node index.js create",
+    "remove": "node index.js remove"
+  },
+  "author": "",
+  "license": "ISC"
+}
